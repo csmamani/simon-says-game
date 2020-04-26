@@ -72,7 +72,7 @@ class Juego {
   }
 
   elegirColor(ev) {
-    console.log(this);
+    console.log(ev);
   }
 }
 
